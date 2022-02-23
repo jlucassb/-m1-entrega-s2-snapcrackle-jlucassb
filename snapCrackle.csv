@@ -1,0 +1,12 @@
+i;i <= maxValue;i++;i % 2 !== 0 && i % 5 !== 0;"valor.push(""Snap"")";i % 5 === 0 && i % 2 === 0;"valor.push(""Crackle"")";i % 2 !== 0 && i % 5 === 0;"valor.push(""SnapCrackle"")";i % 2 === 0 && i % 5 !== 0;valor.push(i);console.log
+1;true;2;true;'Snap';-;-;-;-;-;-;'Snap'
+2;true;3;false;--;false;--;false;--;true;2;2
+3;true;4;true;'Snap';-;-;-;-;-;-;'Snap'
+4;true;5;false;--;false;--;false;--;true;4;4
+5;true;6;false;--;false;--;true;'SnapCrackle';-;-;'SnapCrackle'
+6;true;7;false;--;false;--;false;--;true;6;6
+7;true;8;true;'Snap';-;-;-;-;-;-;'Snap'
+8;true;9;false;--;false;--;false;--;true;8;8
+9;true;10;true;'Snap';-;-;-;-;-;-;'Snap'
+10;true;11;false;--;true;'Crackle';-;-;-;-;'Crackle'
+11;false;-;-;-;-;-;-;-;-;-;-
